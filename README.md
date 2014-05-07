@@ -11,6 +11,11 @@ Copyright (c) 2014 The Heavycoin developers,
 What is Functioncoin?
 ----------------
 
+No IPO
+No reserved
+No steal dig
+The world's first truly fair and impartial coins
+
 Functioncoin is an Ultra-secure, Democratic and ASIC-resistant Crypto-currency.
 
 For more information, as well as an immediately useable, binary version of
