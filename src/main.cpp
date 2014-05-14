@@ -1076,13 +1076,13 @@ int64 static GetBlockValue(unsigned int reward, int nHeight, int64 nFees)
     int64 nSubsidy = 50 * COIN;
     if (nHeight < 1001 )
     {nSubsidy = 1000 * COIN;}
-    else if (nHeight < 30001)
+    else if (nHeight < 4731)
     {nSubsidy = 500 * COIN;}
-    else if (nHeight < 70001)
+    else if (nHeight < 7731)
     {nSubsidy = 200 * COIN;}
-    else if (nHeight < 15001)
+    else if (nHeight < 14731)
     {nSubsidy = 100 * COIN;}
-    else if (nHeight < 45001)
+    else if (nHeight < 37668)
     {nSubsidy = 80 * COIN;}
     else
     {nSubsidy = 0 * COIN;}

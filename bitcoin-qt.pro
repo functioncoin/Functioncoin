@@ -1,7 +1,7 @@
 TEMPLATE = app
 TARGET = Functioncoin-Qt
 macx:TARGET = "Functioncoin-Qt"
-VERSION = 1.0.0.0
+VERSION = 1.0.0.1
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
